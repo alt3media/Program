@@ -9,3 +9,4 @@
 * Strengthen Australia's bio-security and quarantine laws.
 * All government spending on goods to be on Australian products where possible.
 * Government must discourage the development of corporate monopolies and duopolies.
+* Break up the extreme concentration of media ownership in Australia.
