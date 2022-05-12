@@ -1,6 +1,5 @@
 # The ALT3 Manifesto: Social Issues
 
-* Break up the extreme concentration of media ownership in Australia.
 * Minimum mandatory sentencing for serious crime and repeat offenders.
 * A complete ban on all Australian citizens engaging in commercial surrogacy arrangements inside or outside Australia.
 * A complete ban on the use of so-called gender neutral language in all Australian public institutions.
