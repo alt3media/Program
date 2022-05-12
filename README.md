@@ -8,6 +8,7 @@ ALT3 Media is not a political party but an agitprop organisation on a mission to
 * [Employment](employment.md)
 * [Health](health.md)
 * [Housing](housing.md)
+* [Immigration & Refugees](immigration.md)
 * [Regionalism](regionalism.md)
 * [Defence](defence.md)
 * [Social Issues](social.md)
