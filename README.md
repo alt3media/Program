@@ -1,8 +1,12 @@
 # The ALT3 Manifesto
 
-The ALT3 Manifesto is a political program for Australia and the times we find ourselves in. The manifesto is an agile and evolving open source document which combines policies and ideas from both the left and right of Australian politics, including Bob Katter's Australia Party, the Australian Labor Party, One Nation, the Liberal National coalition and the Greens. Have a contribution? Fork the manifesto and submit a pull request!
+What would a political program that combined the best ideas from all of Australia's political parties, both left and right, look like? Maybe something like the ALT3 Manifesto!
 
-ALT3 Media is not a political party but an agitprop organisation on a mission to contribute to the formation of a real third alternative in Australian politics: an alternative focused on pragmatic solutions in the national interest, beyond the ideological divisions of the traditional left and right.
+The ALT3 Manifesto is our take on a radical centrist political program located in the common ground beyond left and right. Generally speaking, the manifesto adopts an approach that can be described as economically left, culturally right. This manifesto is an agile and evolving open source document.
+
+Like to make a contribution? Fork the manifesto, make your changes and additions, then submit a pull request! If that sounds too complicated, just get in touch with your ideas. Either way, if your suggestions are a good fit for us they're in!
+
+ALT3 Media is an independent media organisation promoting a third alternative in Australian politics focused on pragmatic solutions in the national interest, beyond the ideological divisions of the traditional left and right.
 
 * [Economy](economy.md)
 * [Employment](employment.md)
