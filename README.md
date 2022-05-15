@@ -1,4 +1,4 @@
-# The ALT3 Manifesto
+# ALT3
 
 What would a political program that combined the best ideas from all of Australia's political parties, both left and right, look like? Maybe something like the ALT3 Manifesto!
 
