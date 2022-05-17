@@ -1,7 +1,5 @@
 # Immigration & Refugees
 
-## In
-
 * Lower levels of general immigration, to reduce pressure on housing and resources while helping wage growth.
 * Immigration restricted to workers with skills in immediate demand in Australia.
 * Deportation of non-Australian citizens convicted of serious crimes.

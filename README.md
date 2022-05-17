@@ -10,7 +10,8 @@ ALT3 Media is an independent media organisation promoting a third alternative in
 
 * [Economy](economy.md)
 * [Education](education.md)
-* [Employment](employment.md)
+* [Employment & Industrial Relations](employment.md)
+* [Family](family.md)
 * [Foreign Policy & Defence](defence.md)
 * [Health](health.md)
 * [Housing](housing.md)
