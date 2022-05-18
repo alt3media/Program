@@ -1,10 +1,10 @@
 # Housing
 
-Stable affordable housing is fundamental to a strong and prosperous community.
+Stable, affordable housing is fundamental to strong families and prosperous communities. The problem with housing today is that it has become a wealth creation vehicle for property investors, property developers and banks. 
 
-* Implementation of the Social Mortgage concept as outlined below.
+* Implementation of a Social Mortgage scheme. Some suggestions for how this could work are outlined below.
 * Complete ban on the sale of residential and rural property to non-Australian citizens.
-* Development of stronger, more viable regions to encourage the decentralisation of the Australian population to areas where housing is cheaper.
+* Development of stronger, more viable regions to encourage the decentralisation of the Australian population to areas where housing is more affordable and communities more liveable.
 
 ## The Social Mortgage
 
