@@ -7,6 +7,6 @@
 
 ## References
 
-[Australian fertility rate hits record low](https://www.abs.gov.au/media-centre/media-releases/australian-fertility-rate-hits-record-low)
-[Australia's fertility rate is at a record low. This expert says it's a disaster waiting to happen](https://www.abc.net.au/news/2021-08-24/fertility-rates-in-australia-at-all-time-low-cause-for-concern/100367258)
-[What’s wrong with being straight? Heterosexuality is now deemed déclassé](https://unherd.com/2022/05/whats-wrong-with-being-straight/)
+* [Australian fertility rate hits record low](https://www.abs.gov.au/media-centre/media-releases/australian-fertility-rate-hits-record-low)
+* [Australia's fertility rate is at a record low. This expert says it's a disaster waiting to happen](https://www.abc.net.au/news/2021-08-24/fertility-rates-in-australia-at-all-time-low-cause-for-concern/100367258)
+* [What’s wrong with being straight? Heterosexuality is now deemed déclassé](https://unherd.com/2022/05/whats-wrong-with-being-straight/)

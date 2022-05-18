@@ -10,4 +10,4 @@
 
 ## References
 
-[Really want to lift workers' wages? 6 industrial reforms we need, whoever wins the 21 May election](https://labourlawdownunder.com.au/?p=1032)
+* [Really want to lift workers' wages? 6 industrial reforms we need, whoever wins the 21 May election](https://labourlawdownunder.com.au/?p=1032)
